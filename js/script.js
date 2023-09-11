@@ -177,7 +177,7 @@ ScrollReveal({
 
 // target elemnts
 ScrollReveal().reveal('.home .info h2,project_section_title,skills_section_title,section-title-01,section-title-02', {delay:0, origin:'left'});
-ScrollReveal().reveal('.home .info h2, .home .info h3,.about-info .btn', {delay:0, origin:'right'});
+ScrollReveal().reveal('.home .info h2, .home .info h3,.home .info p,.about-info .btn', {delay:0, origin:'right'});
 ScrollReveal().reveal('.home .info .btn', {delay:0, origin:'bottom'});
 ScrollReveal().reveal('.media-icons i, .contact-left li', {delay:0, origin:'left',interval:200});
 ScrollReveal().reveal('.home-img ,.about-img,.qualification', {delay:0, origin:'bottom'});
