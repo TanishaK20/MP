@@ -34,4 +34,4 @@ Create detailed documentation explaining the system's architecture, modules, and
 ## User Guide:
 Develop a user guide or manual to assist users in navigating and using the payroll system. Provide clear instructions on how to input employee data, process payroll, and generate reports. Include any additional information or tips that can help users effectively utilize the system.
 
-## Remember to plan and break down the project into smaller tasks or modules to simplify development. It is recommended to follow proper software engineering practices such as modularization, code reusability, and adherence to coding standards. Regularly test and refactor your code to ensure a robust and maintainable payroll system.
+**Remember to plan and break down the project into smaller tasks or modules to simplify development. It is recommended to follow proper software engineering practices such as modularization, code reusability, and adherence to coding standards. Regularly test and refactor your code to ensure a robust and maintainable payroll system.**
